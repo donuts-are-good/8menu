@@ -1,3 +1,5 @@
+![githubembed](https://user-images.githubusercontent.com/96031819/233730908-84516f49-c5e3-4abd-951b-3bd4530af629.jpg)
+
 ![donuts-are-good's followers](https://img.shields.io/github/followers/donuts-are-good?&color=555&style=for-the-badge&label=followers) ![donuts-are-good's stars](https://img.shields.io/github/stars/donuts-are-good?affiliations=OWNER%2CCOLLABORATOR&color=555&style=for-the-badge) ![donuts-are-good's visitors](https://komarev.com/ghpvc/?username=donuts-are-good&color=555555&style=for-the-badge&label=visitors)
 
 # 8menu
@@ -5,6 +7,8 @@
 ## what?
 
 8menu is a simple menu utility inspired by the behavior of Plan9's `9menu` utility. it's written in go and uses fyne to provide a cross-platform gui.
+
+![8menu2](https://user-images.githubusercontent.com/96031819/233736410-bae5e590-b91e-422c-9aa9-6d5b428013d8.gif)
 
 ## why?
 
