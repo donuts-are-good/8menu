@@ -26,7 +26,8 @@ building
 
 ## download
 
-to download a precompiled binary, click here: https://github.com/donuts-are-good/8menu
+to download a precompiled binary, click here: https://github.com/donuts-are-good/8menu/releases/latest
+
 ## build
 
 to build 8menu from source, you will need to have go installed. once you have these dependencies installed, you can build 8menu like this:
